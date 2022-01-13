@@ -1,0 +1,33 @@
+https://www.necessarygames.com/play/loneliness/?q=my-games/loneliness/flash
+
+Quem são os personagens do jogo?
+Os quadradinhos, PC (eu) e NPC (outros quadradinhos)
+
+Quem é o personagem principal?
+Eu
+
+Qual é a história do jogo?
+O quadradinho está solitário e quer amigos
+
+Qual é o objetivo principal do jogo?
+Tentar acabar com a solidão
+
+Qual é o principal obstáculo?
+Os outros quadradinhos vão se afastando à medida que a gente chega perto
+
+Como o jogador recebe feedback de suas ações?
+Apertando as setas do teclado
+
+É um jogo de azar?
+Sim, pois o jogador nunca chega nos outros quadradinhos
+
+Regras do jogo?
+O jogador aperta as setas do teclado, o quadrado se move de acordo com as setas
+
+Adaptabilidade?
+O fundo do jogo vai escurecendo
+
+Equilíbrio?
+Não é um jogo equilibrado
+
+Solidão? Pandemia, pode mostrar o racismo/bullying nas escolas
