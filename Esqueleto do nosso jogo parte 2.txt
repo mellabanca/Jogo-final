@@ -1,0 +1,62 @@
+Ideias para o jogo:
+- Labirinto (base: jogo mais difícil do mundo)
+
+- Objetivo do jogo para o desenvolvedor: causar raiva no jogador
+- Objetivo do jogo para o jogador: finalizar as fases (labirinto)
+
+
+- Fase 1: Atack on Titan - Eren Titã Vs Titã Blindado
+
+- Fase 2: One Piece - Luffy tentando chegar na ilha do One Piece
+
+- Fase 3: Black clover - Rei Demônio vs. Asta
+
+- Quando trocar de fase, colocar outro anime
+
+
+- Obstáculos: cada fase vai ter um tipo de obstáculo diferente
+Fase 1 - Labirinto normal que quando o personagem encosta na parede, ele morre
+Fase 2 - Desviar dos inimigos do labirinto
+Fase 3 - As paredes vão se movendo (projeto da aula 4 - volta do ladrão de joias)
+
+- Regras:
+Mover o jogador com as setas do teclado
+Número máximo de vidas: 3 vidas para cada fase
+Quando o jogador bater no obstáculo ou inimigo, ele perde uma vida
+Quando perder todas as vidas, game over
+O jogador ganha o jogo quando completar as três fases
+
+- Feedback:
+Pontuação - moedas em pontos estratégicos nas fases
+Número de vidas
+Movimentação
+
+- Adaptabilidade:
+Fase 1 - fácil, fase 2 - médio, fase 3 - difícil
+
+- Instruções? Não precisa
+
+- Como vamos fazer mudar de fase? Estado do jogo.
+
+- Plataforma?
+Code.org - blocos prontos, fica muito limitado
+p5 - é um pouco melhor, só que o p5 não vai sugerindo comandos
+
+VS Code - É NÓIS!!!
+Biblioteca: p5.play.js
+PARA CELULAR
+
+
+
+DECOMPOSIÇÃO - Dividir o nosso jogo em várias partes
+1- Montar o labirinto (sem mudar cor, nem nada)
+2- Criar os personagens
+3- Carregar as Imagens
+4- Movimentação dos personagens
+5- Sistema de vidas, etc.
+
+Fazer tudo isso para o primeiro labirinto
+E depois fazer os próximos
+
+
+
