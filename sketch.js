@@ -1,4 +1,4 @@
-var parede1, parede2,parede3, parede4, parede5, parede6, parede7, parede8, parede9, parede10, parede11, parede12;
+var parede1, parede2, parede3, parede4, parede5, parede6, parede7, parede8, parede9, parede10, parede11, parede12;
 
 
 function preload(){
